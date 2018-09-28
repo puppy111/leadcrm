@@ -1,0 +1,37 @@
+Issues Pending
+1.  Bank-end  - Page module - Description mandatory is not working propely
+2.  Bank-end  - Admin Forgot password failure is redirecting to - 404
+3.  Bank-end  - In course page display branch count.
+4.  Bank-end  - Show Payment History for each user
+5.  Bank-end  - Display course name in batch screen
+6.  Bank-end  - Live on key stroke Search for student names
+7.  Bank-end  - Check relational db tables (payments table - course,student,batch)
+8.  Front-end - Search Not working in Payment Module
+9.  Front-end - Events and Syllabus add or remove pagination if required
+10. Front-end - Logo and Favicon Update
+11. Front-end - Test Page Menu
+
+
+Resolved Issues
+1.  Remove Online css and js Links if any views
+2.  Date & Time validation in batches module
+3.  Payments Module - discount can't be more than fees, Payment Module - Display Student name properly
+4.  Payments Module - Search is not working
+5.  Report Module   - incomplete
+6.  BackButton For all modules
+7.  All module search working properly
+8.  Status - Update option is missing
+9.  Edit payment and check student name display ( showing only phone numbers )
+10. Update Dashboard Values
+11. Instructor module need to modify: Name,Phone,Email
+12. Front-end - Add Dynamic Title
+13. Bank-end  - Remove default select box values in payment module.
+14. Front-end - Remove Search
+15. Front-end - Highlight Menu
+16. Front-end - Mark Map
+17. Front-end - Configure Email id : after hosting
+
+
+Reference Links
+https://stackoverflow.com/questions/18487056/select2-doesnt-work-when-embedded-in-a-bootstrap-modal
+http://www.kvcodes.com/2017/03/bootstrap-toggle-inside-jquery-datatable/

@@ -1,0 +1,13 @@
+[11-Jun-2018 04:43:25 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::president_profile() in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/Welcome.php on line 96
+[13-Jun-2018 02:38:37 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::president_profile() in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/Welcome.php on line 162
+[13-Jun-2018 02:38:40 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::president_profile() in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/Welcome.php on line 162
+[14-Jun-2018 12:00:48 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/Welcome.php on line 104
+[14-Jun-2018 12:00:50 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/Welcome.php on line 104
+[17-Jun-2018 23:56:08 Asia/Kolkata] PHP Fatal error:  Call to a member function save() on a non-object in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/admin/Gallery_images.php on line 137
+[17-Jun-2018 23:56:16 Asia/Kolkata] PHP Fatal error:  Call to a member function save() on a non-object in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/admin/Gallery_images.php on line 137
+[17-Jun-2018 23:57:16 Asia/Kolkata] PHP Fatal error:  Call to a member function save() on a non-object in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/admin/Gallery_images.php on line 137
+[18-Jun-2018 00:23:38 Asia/Kolkata] PHP Fatal error:  Call to a member function get() on a non-object in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/admin/Gallery_titles.php on line 156
+[19-Jun-2018 07:31:59 Asia/Kolkata] PHP Fatal error:  Call to a member function get_by_id() on a non-object in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/admin/Gallery_titles.php on line 171
+[08-Jul-2018 18:02:43 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::national_body() in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/Welcome.php on line 202
+[08-Jul-2018 18:02:45 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::national_body() in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/Welcome.php on line 202
+[25-Jul-2018 21:56:31 Asia/Kolkata] PHP Fatal error:  Cannot access empty property in /home/tetrahor/public_html/bjpscmorcha.in/application/controllers/admin/National_main_members.php on line 38
